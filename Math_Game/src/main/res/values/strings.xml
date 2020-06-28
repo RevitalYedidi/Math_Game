@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Math Game</string>
+    <string name="title_activity_main">Math Game</string>
+    <string name="title_activity_game">Math Game</string>
+</resources>
